@@ -1,0 +1,6 @@
+Agaricus_campestris
+Agaricus_xanthodermus
+Chlorophyllum_molybdites
+Chlorophyllum_rhacodes
+Lepiota_cristata
+Macrolepiota_procera
