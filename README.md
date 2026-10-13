@@ -57,7 +57,7 @@ The easiest way to build SmartSpore. Everything (Flutter SDK, Android SDK, depen
 
 ```bash
 git lfs install
-git clone https://github.com/<your-username>/SmartSpore.git
+git clone https://github.com/C1AUS-Y/SmartSpore.git
 cd SmartSpore
 git lfs pull
 ```
