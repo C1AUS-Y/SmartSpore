@@ -1,4 +1,4 @@
-# builds the SmartSpore apk inside the container.
+# builds the SmartSpore apk inside the container
 FROM ghcr.io/cirruslabs/flutter:stable
 WORKDIR /app
 
@@ -13,4 +13,5 @@ COPY . .
 RUN test "$(stat -c%s lib/assets/model/MNv4_FP32_ver2.pte)" -gt 1000000 \
     || (echo "ERROR: model file is a Git LFS pointer. Run 'git lfs pull' first." && exit 1)
 
+# build the release apk
 RUN flutter build apk --release
