@@ -128,7 +128,7 @@ Flutter · Dart · ExecuTorch (on-device inference) · PyTorch · MobileNetV4 ·
 
 ## Authors
 
-Danielle Laurence B. Lenon, Hans Christian S. Ocampo, Bianca Claire L. Ochoa, and Bianca Venice L. Ochoa, School of Computing, Holy Angel University. Adviser: Everly M. Chua, DIT.
+Bianca Claire L. Ochoa, Bianca Venice L. Ochoa, Hans Christian S. Ocampo, and Danielle Laurence B. Lenon, School of Computing, Holy Angel University. Adviser: Everly M. Chua, DIT.
 
 ## License
 
