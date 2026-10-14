@@ -46,6 +46,8 @@ It was built as a thesis project at Holy Angel University, *"Enhancing Foraging 
 
 The easiest way to build SmartSpore. Everything (Flutter SDK, Android SDK, dependencies) is handled inside the container.
 
+The Docker Repository can be found [here](https://hub.docker.com/r/c1ausy/smartspore-apk).
+
 ### Prerequisites
 
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/) (or Docker Engine on Linux), running
