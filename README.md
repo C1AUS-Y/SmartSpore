@@ -55,7 +55,7 @@ The Docker Repository can be found [here](https://hub.docker.com/r/c1ausy/smarts
   
 ### Steps
 
-**1. Clone the repo and pull the model file**
+**1. Clone the Github repo and pull the model file**
 
 ```bash
 git lfs install
